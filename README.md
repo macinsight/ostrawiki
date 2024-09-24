@@ -11,7 +11,7 @@ To use the files in this repository, the following prerequisites have to be met:
 ## How to use this stuff
 So you want to support the ~~war~~ wiki effort! Good human! Or cat. Or whatever, really. Good entity.
 ### Execution details
-1. Download this repository either by cloning or by downloading the `.zip` file.
+1. Download this repository either by cloning or by [downloading the .zip file](https://github.com/macinsight/ostrawiki/archive/refs/heads/main.zip).
 2. Place the script in your `condowners` folder.
 3. Execute the script as follows:
   `python3 infobox.py ItmCooler01On condowners.json`
